@@ -1,8 +1,11 @@
 Nisekoi Theme
 
 Made by: Tainted06
+
 Github: https://github.com/Tainted06
+
 Youtube:
+
 Discord: Tainted#0069
 
 How to install:
