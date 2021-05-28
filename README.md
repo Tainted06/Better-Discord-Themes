@@ -1,7 +1,7 @@
 # Better Discord Themes
 
  - Multiple themes for the discord extension Better Discord
- - Download for Better Discord - https://https://betterdiscord.net/
+ - Download for Better Discord - https://betterdiscord.net/
 
 # How to Use These Themes 
 
