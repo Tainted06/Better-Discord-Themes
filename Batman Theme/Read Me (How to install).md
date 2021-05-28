@@ -1,9 +1,9 @@
 Batman Better Discord Theme
 
 Made by: Tainted06
-Github:
+Github: https://github.com/Tainted06
 Youtube:
-Discord:
+Discord: Tainted#0069
 
 How to install:
 
