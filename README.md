@@ -28,3 +28,5 @@ Third party clients like better discord are not allowed by discord's terms of se
  - Turn on the theme you want to use
 
 # Theme 1 | Your Name 
+
+
