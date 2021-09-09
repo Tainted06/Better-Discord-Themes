@@ -23,10 +23,8 @@
     --channel-hover-text-color: rgba(0, 203, 218, 0.438);
     --unread-text-color: #dedcde;
     --user-popup-background: rgb(73, 37, 139);
-    /*
-    --columns: 2;
+    --columns: 1;
     --guildsize: 50;
     --guildgap: 3;
     --aligndms: 1;
-    */
 }

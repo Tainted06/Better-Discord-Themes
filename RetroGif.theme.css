@@ -1,0 +1,36 @@
+/**
+* @name Retro Gif Theme
+* @author 
+* @version 0.1
+* @description A retro better discord theme that uses a gif as the background and friends icon
+*/
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css);
+
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+:root {
+    --background-image: url(https://cdn.glitch.com/e1141627-a512-4c7f-97ce-f1775c4b3cab%2Fmylivewallpapers.com-Retro-Vaporwave%20.gif?v=1617531888992);
+    --friends-icon: url(https://cdn.glitch.com/e1141627-a512-4c7f-97ce-f1775c4b3cab%2Fgiphy.gif?v=1617520630736);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgb(177, 0, 231);
+    --main-transparency: rgba(104, 0, 136, 0.39);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgb(255, 145, 0);
+    --border-lines-color: rgba(0, 255, 221, 0.1);
+    --scroll-bar-color: rgb(0, 238, 255);
+    --font-size: 16px;
+    --selected-text-voice-color: #f6f6f7;
+    --channel-hover-text-color: rgba(0, 203, 218, 0.438);
+    --unread-text-color: #dcdede;
+    --user-popup-background: rgba(82, 50, 143, 0.856);
+    --columns: 1;
+    --guildsize: 50;
+    --guildgap: 3;
+    --aligndms: 1;
+    --friends-icon-position: 50% 50%;
+    --friends-icon-zoom: 80%;
+    --unread-bullet-color: #f04747; 
+    --unread-animation: hue-rotate; 
+    --unread-animation-duration: 2s;
+    
+}

@@ -1,0 +1,30 @@
+/**
+* @name Gif Anime Girl Theme
+* @author 
+* @version 0.1
+* @description https://github.com/Tainted06/Better-Discord-Themes#foreword
+*/
+
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+
+:root {
+    --background-image: url(https://cdn.glitch.com/e1141627-a512-4c7f-97ce-f1775c4b3cab%2Fmylivewallpapers.com-Wandering-Witch-The-Journey-of-Elaina.gif?v=1617478769005);
+    --friends-icon: url(https://image.pngaaa.com/569/4859569-middle.png);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgba(69, 67, 181, 0.678);
+    --main-transparency: rgba(26, 0, 173, 0.527);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(255, 0, 0, 0.438);
+    --border-lines-color: rgba(184, 43, 43, 0.1);
+    --scroll-bar-color: rgb(255, 0, 0);
+    --font-size: 16px;
+    --selected-text-voice-color: #f6f6f7;
+    --channel-hover-text-color: rgba(0, 203, 218, 0.438);
+    --unread-text-color: #dedcde;
+    --user-popup-background: rgb(47, 0, 255);
+    --columns: 1;
+    --guildsize: 50;
+    --guildgap: 3;
+    --aligndms: 1;
+}
