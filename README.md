@@ -29,16 +29,16 @@ Third party clients like better discord are not allowed by discord's terms of se
 
 ## Theme 1 | Your Name Anime Theme
 
-![Your Name Anime Theme](assets/KmWSaNkx.png)
+![Your Name Anime Theme](https://github.com/Tainted06/Better-Discord-Themes/raw/main/Assets/KmWSaNkx.png)
 
 ## Theme 2 | Godzilla Theme
 
-![Godzilla Theme](assets/Z1TFLiYY.jpg)
+![Godzilla Theme](https://github.com/Tainted06/Better-Discord-Themes/raw/main/Assets/Z1TFLiYY.jpg)
 
 ## Theme 3 | Retro Gif Theme
 
-![Retro Gif Theme](assets/mK8LW6wY.gif)
+![Retro Gif Theme](https://github.com/Tainted06/Better-Discord-Themes/raw/main/Assets/mK8LW6wY.gif)
 
 ## Theme 4 | Anime Gif Theme
 
-![Anime Gif Theme](assets/EnQ8YWKtdu.gif)
+![Anime Gif Theme](https://github.com/Tainted06/Better-Discord-Themes/raw/main/Assets/EnQ8YWKtdu.gif)
